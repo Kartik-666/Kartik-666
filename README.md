@@ -4,7 +4,7 @@
 
 - 🌱 Currently learning: Web Development, AI, NLP  
 - 👨‍💻 Projects: [My Repos](https://github.com/YourUsername?tab=repositories)  
-- 📫 Reach me at: [your email]  
+- 📫 Reach me at: [raikakartik06@gmail.com]
 
 ## 🔧 Technologies & Tools
 - Languages: Python, C++, C#, JavaScript  
