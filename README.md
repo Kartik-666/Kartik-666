@@ -8,11 +8,11 @@
 
 ## 🔧 Technologies & Tools
 - Languages: Python, C++, C#, JavaScript  
-- Frameworks: Django, .NET Core  
-- ML/DL: TensorFlow, PyTorch  
+- Frameworks: ASP.NET Core  
+- ML/DL: TensorFlow, PyTorch  , skitLearn.
 
 ## 📊 GitHub Stats
-![Karthik's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight)
+![Karthik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kartik-666&show_icons=true&theme=tokyonight)
 
 ## 🌐 Connect with me
 [LinkedIn](https://www.linkedin.com/in/your-profile) | [Portfolio](your-website-link)
