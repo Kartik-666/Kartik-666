@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Karthik  
+# Hola Amigos, I'm Kartik  
 
 🚀 **AI & ML Enthusiast | Fullstack .NET Developer | CSE Student**
 
