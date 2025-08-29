@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there 👋, I'm Karthik  
 
-<!--
-**Kartik-666/Kartik-666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **AI & ML Enthusiast | Fullstack .NET Developer | CSE Student**
 
-Here are some ideas to get you started:
+- 🌱 Currently learning: Web Development, AI, NLP  
+- 👨‍💻 Projects: [My Repos](https://github.com/YourUsername?tab=repositories)  
+- 📫 Reach me at: [your email]  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies & Tools
+- Languages: Python, C++, C#, JavaScript  
+- Frameworks: Django, .NET Core  
+- ML/DL: TensorFlow, PyTorch  
+
+## 📊 GitHub Stats
+![Karthik's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight)
+
+## 🌐 Connect with me
+[LinkedIn](https://www.linkedin.com/in/your-profile) | [Portfolio](your-website-link)
